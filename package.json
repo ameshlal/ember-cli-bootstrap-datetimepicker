@@ -51,7 +51,7 @@
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.13.0",
-    "eonasdan-bootstrap-datetimepicker-npm": "anamisangal/bootstrap-datetimepicker#d694d439c44dce24f07bd096151eda3bd3c3f70d",
+    "eonasdan-bootstrap-datetimepicker": "anamisangal/bootstrap-datetimepicker#d694d439c44dce24f07bd096151eda3bd3c3f70d",
     "loader.js": "^4.2.3",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13"
